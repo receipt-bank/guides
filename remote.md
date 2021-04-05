@@ -1,6 +1,6 @@
 # Remote working
 
-Receipt Bank is a remote organization, spread across four continents and numerous time zones. This is a collection of guidelines and good practices for working remotely.
+Dext is a remote organization, spread across four continents and numerous time zones. This is a collection of guidelines and good practices for working remotely.
 
 ## TLDR
 

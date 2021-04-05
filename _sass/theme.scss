@@ -90,40 +90,42 @@ a {
 }
 
 .page-header {
-  text-align: center;
-  background-image: url('../images/header.png');
+  background-color: #0c2340;
   background-size: cover;
 
   @include large {
-    padding: 5rem 6rem;
+    padding: 2.2rem 2rem;
   }
 
   @include medium {
-    padding: 3rem 4rem;
+    padding: 2.2rem 1rem;
   }
 
   @include small {
-    padding: 2rem 0rem;
+    padding: 1.2rem 1rem;
   }
 }
 
 .project-header {
   img {
+    float: left;
+
     @include large {
-      width: 40rem;
+      height: 4rem;
     }
 
     @include medium {
-      width: 30rem;
+      height: 3rem;
     }
 
     @include small {
-      width: 13rem;
+      height: 2rem;
     }
   }
 }
 
 .project-tagline {
+  text-align: center;
   font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 600;
   font-style: italic;

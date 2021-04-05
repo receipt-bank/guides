@@ -1,4 +1,4 @@
-# Receipt Bank Guides
+# Dext Guides
 
 This repository contains a collection of guides on our company culture. It uses Github Pages to
 generate a static site via jekyll and publish it on every push to the `master` branch.

@@ -1,6 +1,6 @@
 # Slack guidelines
 
-This page will acquaint you with how we use Slack in Receipt Bank. It's organised by topic. Please read it carefully.
+This page will acquaint you with how we use Slack in Dext. It's organised by topic. Please read it carefully.
 
 ## Slack profile
 
@@ -15,7 +15,7 @@ This page will acquaint you with how we use Slack in Receipt Bank. It's organise
 * **Team.** Which team are you a part of.
 * **Manager.** Enter the person you report to. If you are uncertain, that is usually the person you have your one-to-ones with. If you can't find them, they might not be in Slack yet – make sure you fill it once they are.
 
-**Upload an Image**. It makes Slack considerably more personal. Don't just put in any picture there – use a photo where we can see your face and you can be identified. Bonus points if you manage to get in orange background with the Receipt Bank logo.
+**Upload an Image**. It makes Slack considerably more personal. Don't just put in any picture there – use a photo where we can see your face and you can be identified.
 
 If you're an engineer, make sure **your username in Slack matches the one in GitHub**. If you don't have GitHub, you can ignore this.
 
